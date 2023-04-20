@@ -12,7 +12,6 @@
     <li>Prim's and Kruskal's MST algorithms</li>
     <li>Backtracking</li>
   </ul>
-  <br>
   <h3>Trying to improve these skills:</h3>
   <ul>
     <li>DFS and similar recursive algorithms on <b>matrices</b></li>
