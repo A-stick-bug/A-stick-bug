@@ -4,7 +4,7 @@
   <h3>This Year's Goals:</h3>
   <ul>
     <li>Be able to solve S3 and partially solve S4 questions on CCC</li>
-    <li>Consistently get 2 questions correct on weekly Leetcode contests</li>
+    <li>Consistently get 3 questions correct on weekly Leetcode contests</li>
   </ul>
   <h3>Current Learning:</h3>
   <ul>
@@ -14,7 +14,6 @@
   </ul>
   <h3>Trying to improve these skills:</h3>
   <ul>
-    <li>DFS and similar recursive algorithms on <b>matrices</b></li>
     <li>Solving problems quickly and be successful on the first try</li>
     <li>Use of 2 pointers and sliding windows</li>
   </ul>
