@@ -8,7 +8,6 @@
   </ul>
   <h3>Current Learning:</h3>
   <ul>
-    <li>Dijkstra's algorithm</li>
     <li>Prim's and Kruskal's MST algorithms</li>
     <li>Backtracking</li>
   </ul>
