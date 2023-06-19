@@ -1,6 +1,7 @@
 <html>
 <body>
   <h2>Someone who enjoys doing Leetcode questions, doing CCC questions, and learning algorithms.</h2>
+  <h4>Repositories constantly updated: Leetcode and CCC</h4>
   <h4>This Year's Goal: Top 25% on Leetcode contests</h4>
   <h4>Next Year's Goal: Be able to solve S3 and partially solve S4 questions on CCC</h4>
   
