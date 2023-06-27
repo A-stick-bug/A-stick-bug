@@ -14,14 +14,13 @@
   
   <h3>Current Learning:</h3>
   <ul>
-    <li>MSTs and disjoint sets</li>
-    <li>Backtracking</li>
+    <li>Dynamic Programming (pain)</li>
   </ul>
   
   <h3>Trying to improve these skills:</h3>
   <ul>
-    <li>Use of 2 pointers and sliding windows</li>
-    <li>Shortest path algorithms</li>
+    <li>Complicated recursion</li>
+    <li>Graph theory variations</li>
   </ul>
 </body>
 </html>
